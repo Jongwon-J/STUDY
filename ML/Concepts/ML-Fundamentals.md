@@ -1,5 +1,3 @@
-**ML-Fundamentals**
-
 ## 📚 References
 * **Course:** [Machine Learning for Web Developers (Web ML)](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mtQ7GmsCD7GkYwS_O6Sg)
 * **Provider:** Google for Developers

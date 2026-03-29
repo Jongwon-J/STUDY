@@ -56,7 +56,7 @@ Y = integ.odeint(f,[1,1],t)
     - **jac** : 기울기 ( 0에 가까울수록 정밀 )
     - **hess_inv** : 곡률 ( 수 ⬆️ ⇒ 완만 / 1.0 근처 : 표준적인 곡률 )
     
-    ![스크린샷 2026-03-22 오후 4.49.25.png](attachment:eab643d7-2b73-419c-8eca-e449961dd066:스크린샷_2026-03-22_오후_4.49.25.png)
+    <img width="396" height="180" alt="스크린샷 2026-03-29 오후 11 49 30" src="https://github.com/user-attachments/assets/f6dde4ad-ef64-4123-b068-5382261ff25e" />
     
 
 **[ Curve fitting (곡선 적합) ]**
@@ -70,8 +70,8 @@ Y = integ.odeint(f,[1,1],t)
     
     **[ optimize.root(f, -1) 함수 결과 분석 ]**
     
-    ![스크린샷 2026-03-24 오후 7.33.05.png](attachment:ebb87c5e-c6c9-4b2f-b2a9-8c523928f69b:스크린샷_2026-03-24_오후_7.33.05.png)
-    
+    <img width="273" height="173" alt="스크린샷 2026-03-29 오후 11 50 16" src="https://github.com/user-attachments/assets/a9c5267f-9961-4bc2-8a42-9ed1ce160d7b" />
+
     - **status : 1**  → 최종 상태 코드 ( 1: 아무 문제 없이 해 완벽 찾음 )
     - **r & qtf** → QR 분해 관련 값 ( 나중에 학습 )
     - $A_{ub}$ : Upper Bound → 상한선
